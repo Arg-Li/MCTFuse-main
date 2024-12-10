@@ -1,0 +1,1 @@
+For test:  python test.py --test_data_path './test_images/TNO' --weights './runs/ckpt_ivf.pth' --save_path './results'
